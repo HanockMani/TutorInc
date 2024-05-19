@@ -176,7 +176,5 @@
       };
 
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHp44w7ETSKzIsosQymf9UUZtX4OsTu0s&libraries=places&callback=initMap"
-        async defer></script>
   </body>
 </html>
